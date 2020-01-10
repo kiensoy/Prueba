@@ -72,7 +72,7 @@ cout<<"La cara 3 ha salido: "<<c3<<endl;
 cout<<"La cara 4 ha salido: "<<c4<<endl;
 cout<<"La cara 5 ha salido: "<<c5<<endl;
 cout<<"La cara 6 ha salido: "<<c6<<endl;
-
+cout<<"Edicion de lrepositorio"<<endl;
            
 return 0;
 
